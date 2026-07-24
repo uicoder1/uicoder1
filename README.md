@@ -15,26 +15,11 @@
 
 ---
 
-## 🚀 Featured Projects
+## 👨‍💻 About Me
 
-### 🖨️ PrintPilot Studio
-Professional desktop application for Bluetooth thermal printing with image optimization and native Windows support.
+I'm a Software Engineering student passionate about building practical software and continuously improving my development skills.
 
-**Tech:** React • TypeScript • Tauri • Rust • ESC/POS
-
----
-
-### 🤖 SprintPilot AI
-AI-powered multi-agent project management system that transforms ideas into structured software projects.
-
-**Tech:** Python • FastAPI • Google ADK • Gemini
-
----
-
-### 🌐 Portfolio Website
-My personal portfolio showcasing projects, skills, and development journey.
-
-**Tech:** React • TypeScript • Tailwind CSS
+Currently exploring desktop application development, AI-powered solutions, and open source while expanding my knowledge in software engineering.
 
 ---
 
@@ -78,10 +63,4 @@ My personal portfolio showcasing projects, skills, and development journey.
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=uicoder1&theme=github-dark&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-⭐ Thanks for visiting my profile!
 </p>
