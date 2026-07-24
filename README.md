@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner4.gif" width="80%" alt="Anshu Gupta Banner">
+  <img src="banner4.gif" width="100%" length="80%" alt="Anshu Gupta Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Anshu Gupta</h1>
