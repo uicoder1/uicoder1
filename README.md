@@ -1,24 +1,38 @@
-<p align="center">
-  <img src="assets/banner.png" alt="banner" width="100%" />
-</p>
+[Banner]
 
-<h1 align="center">Hi 👋, I'm Anshu Gupta</h1>
+# Hi, I'm Anshu Gupta 👋
 
-<h3 align="center">
-Software Engineering Student • Open Source Contributor
-</h3>
+Software Engineering Student | Open Source Contributor
 
-<p align="center">
 Learning, building, and improving every day.
-</p>
 
-## 👨‍💻 About Me
+---
 
-I'm a Software Engineering student passionate about building software that solves real-world problems.
+## 🚀 Featured Projects
 
-Currently, I'm focused on desktop application development, AI-powered tools, and open source contributions. I enjoy turning ideas into polished products while continuously improving my skills in software engineering.
+🖨️ PrintPilot Studio
+Professional desktop application for Bluetooth thermal printing.
 
-- 🖨️ Building PrintPilot Studio
-- 🤖 Developing AI-powered applications
-- 🌱 Learning system design and backend development
-- 🚀 Open Source Contributor (GSSoC)
+🤖 SprintPilot AI
+Multi-agent AI project manager built with Google ADK.
+
+🌐 Portfolio Website
+My personal portfolio showcasing projects and skills.
+
+---
+
+## 💻 Tech Stack
+
+(Java icon) (Python icon) (SQL icon) (React icon) (TypeScript icon)
+(Tauri icon) (Rust icon) (Firebase icon) (Git icon)
+
+---
+
+## 📈 GitHub Stats
+
+GitHub Stats
+Top Languages
+
+---
+
+Thanks for stopping by! ⭐
