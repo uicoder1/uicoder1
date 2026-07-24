@@ -1,4 +1,6 @@
-[Banner]
+<p align="center">
+  <img src="banner.png" alt="Anshu Gupta Banner" width="100%">
+</p>
 
 # Hi, I'm Anshu Gupta 👋
 
