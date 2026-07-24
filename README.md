@@ -1,16 +1,13 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/banner.png" alt="Anshu Gupta Banner" width="100%" />
+</p>
 
-<!--
-**uicoder1/uicoder1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Anshu Gupta</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+Software Engineering Student • Open Source Contributor
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+Learning, building, and improving every day.
+</p>
